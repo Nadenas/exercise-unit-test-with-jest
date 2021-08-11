@@ -36,6 +36,4 @@ function fromYenToPound (yen) {
 }
 fromYenToPound(3.5);
 
-module.exports = { fromEuroToDollar };
-module.exports = { fromDollarToYen };
-module.exports = { fromYenToPound };
+module.exports = { fromEuroToDollar, fromDollarToYen, fromYenToPound };
